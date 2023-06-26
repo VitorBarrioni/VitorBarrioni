@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorbarrioni" alt="vitorbarrioni" /></a> </p>
 
-- 💬 Ask me about **HTML | CSS | Javascript | React | Redux | Unit tests | RTL**
+- 💬 Ask me about **HTML | CSS | Javascript | React | Redux | Unit tests | RTL | TypeScript | Docker | Node.Js**
 
 <p align="left">
 </p>
